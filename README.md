@@ -4,7 +4,7 @@ This is a simple Python script that scrapes all images from a given URL and down
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/simple-image-scraper.git`
+1. Clone the repository.
 2. Navigate to the project directory:`cd simple-image-scraper`
 3. Install the required Python libraries: `pip install -r requirements.txt`
 4. Run the script and specify the URL of the page containing the images to be scraped: `python image-scraper.py http://example.com/`
